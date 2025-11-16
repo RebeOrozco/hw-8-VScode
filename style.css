@@ -1,6 +1,6 @@
-{
+*{
   margin: 0;
-  padding: 0;
+  padding:0;
 }
 
 html{
@@ -21,7 +21,7 @@ h1{
 h2{
   font-size: 1.5rem;
   text-decoration: #f25f4c;
-  font- weight: bold;
+  font-weight: bold;
 }
 
 li{
@@ -31,7 +31,6 @@ li{
 a:visited{
   color: #f25f4c;
 }
-
 
 /* no touchy */
 ul, ol {
